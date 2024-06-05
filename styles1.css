@@ -12,7 +12,7 @@ header {
      color: rgb(255, 254, 254);
      font-family: "Bebas Neue"; /* ingreso el nombre de la fuente que importe de google fonts */
      width: 400px;
-     height: 200px;
+     height: 400px;
      padding: 20px;
      margin: 0 auto;  /* si pongo 0 auto lo que hace es centrarlo en la pagina */ 
      align-content: center;
